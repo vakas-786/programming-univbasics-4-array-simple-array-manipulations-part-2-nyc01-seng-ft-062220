@@ -1,3 +1,3 @@
 def using_concat
-  puts @my_favorite_things.concat(more_favs)
+  array1.concat(array2)
 end
